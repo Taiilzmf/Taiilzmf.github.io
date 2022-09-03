@@ -43,7 +43,7 @@ h1:hover {
 
 /* Paragraph elements */
 p {
-    font-family: Perpetua, Rockwell Extra Bold;
+    font-family: Work Sans, Lora Bold;
     text-align: justify; /* Justify text within paragraph elements */
     letter-spacing: 1px; /* This expands the text slightly */
     letter-spacing: .1vw; /* This expands the text slightly */
@@ -79,6 +79,7 @@ a {
 /* Quotation elements */
 q {
     font-style: italic; /* This makes the quote italicized */
+    font-family: Lora, Work Sans;
 }
 
 /* Image elements */
@@ -422,7 +423,7 @@ button:hover, .form-container .btn:hover {
     bottom: 0; /* This property sets the text at the bottom of the image */
     width: 100%; /* The element covers the full width of the image */
     text-align: center; /* The text is center aligned within the image */
-    font-family: Perpetua, Rockwell Extra Bold;
+    font-family: Raleway, Playfair Display;
     letter-spacing: .1vw; /* This gives slight spacing between the letters */
     font-size: 1.5vw; /* Font size is relative to the size of the viewport width */
     background-color: rgba(0, 0, 0, 0.75); /* Gives a slightly transparent black background */
